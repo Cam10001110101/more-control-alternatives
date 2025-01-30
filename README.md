@@ -34,7 +34,7 @@ Ollama Setup Guide: [Written Guide](guides/Ollama%20Setup.md)
 
 ## Cloud Providers for Personal Use
 
-These services offer various levels of privacy and control:
+These services offer various levels of privacy and control. Choose between a cloud/hybrid service or host models locally on your computer.
 
 ### Public Cloud Only (Simplest to Get Started)
 

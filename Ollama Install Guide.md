@@ -41,9 +41,9 @@ This guide walks through installing Ollama on Windows, macOS, and Docker Desktop
 
 | Tier | Models |
 |------|---------|
-| Entry Level | • tiny-llama<br>• neural-chat<br>• phi<br>• gemma-2b |
-| Mid-Range | • mistral<br>• neural-chat<br>• llama2<br>• gemma-7b |
-| High-End | • llama2:13b<br>• mixtral<br>• solar<br>• codellama |
+| Lightweight | • phi3.5:3.8b<br>• llama3.2:3b<br>• tinyllama:1b<br>• gemma2:2b |
+| Medium | • mistral:7b<br>• neural-chat:7b<br>• llama3.1:8b<br>• gemma2:9b |
+| Large | • phi4:14b<br>• deepseek-r1:70b<br>• solar:70b<br>• codellama:7b |
 
 ### Performance Expectations
 
