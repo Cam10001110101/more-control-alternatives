@@ -25,9 +25,9 @@ Over the last decade, we've witnessed technologies that transform daily life—s
 Think of this guide as friendly advice from your tech-savvy neighbor— here to help, not to preach, panic, or shame.
 
 # Step by Step Guides in this library
-[Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)  
-[Getting Started with Ollama + Brave](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)  
-[Ollama Setup Guide](guides/Ollama%20Setup.md)  
+Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)  
+Getting Started with Ollama + Brave: [Written Guide](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)  
+Ollama Setup Guide: [Written Guide](guides/Ollama%20Setup.md)  
 
 
 # Access Options
@@ -42,7 +42,7 @@ These services offer various levels of privacy and control:
    * Fast performance for individual users
    * Privacy-focused approach
    * [API Documentation](https://docs.groq.com/)
-   * [Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)
+   * Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
 
 * **[Together.ai](https://www.together.ai)**
    * Community-oriented platform
@@ -133,17 +133,13 @@ Choose based on your comfort level:
 * [Installation Guide](https://github.com/open-webui/open-webui#installation)
 
 ### 2. [Brave Browser](https://brave.com) Integration
-* Best for: Most personal users
+* Best for: Basic use cases that leverage information from web pages
 * Simple setup with privacy benefits
 * Familiar browser interface
 * [Leo AI Assistant](https://brave.com/leo/)
-* [Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)
-* [Getting Started with Ollama + Brave](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)
+* Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
+* Getting Started with Ollama + Brave: [Written Guide](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)
 
-### 3. Command Line
-* Best for: Learning and experimenting
-* Good for understanding how things work
-* [Command Line Basics Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ## Getting Started
 
