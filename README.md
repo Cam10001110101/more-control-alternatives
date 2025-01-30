@@ -15,8 +15,7 @@ This guide is designed for individuals exploring AI for learning and experimenta
 - Sensitive data processing
 
 # Why This Guide Exists
-Over the last decade and beyond, we've witnessed technologies that transform daily life—sometimes faster than society can adapt. Through close observation of the relationships between technology and people, we can see that the release of DeepSeek V3 and R1 models mark another significant milestone in AI's journey into mainstream use.
-While AI offers incredible possibilities, there may be a growing divide in how different groups approach and understand it. Some dive in headfirst, others are tired of hearing about it, and many fall somewhere in between. This guide is meant to:
+Over the last decade, we've witnessed technologies that transform daily life—sometimes faster than society can adapt. Through close observation of the relationships between technology and people, we can see that the release of DeepSeek V3 and R1 models mark another significant milestone in AI's journey into mainstream use.While AI offers incredible possibilities, there may be a growing divide in how different groups approach and understand it. Some dive in headfirst, others are tired of hearing about it, and many fall somewhere in between. This guide is meant to:
 
 - Bridge the knowledge gap between technical and non-technical users
 - Help you make informed decisions about AI use while protecting your privacy
@@ -25,14 +24,70 @@ While AI offers incredible possibilities, there may be a growing divide in how d
 
 Think of this guide as friendly advice from your tech-savvy neighbor— here to help, not to preach, panic, or shame.
 
-### Personal Local Options
+# Step by Step Guides in this library
+[Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)  
+[Getting Started with Ollama + Brave](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)  
+[Ollama Setup Guide](guides/Ollama%20Setup.md)  
+
+
+# Access Options
+
+## Cloud Providers for Personal Use
+
+These services offer various levels of privacy and control:
+
+### Public Cloud Only (Simplest to Get Started)
+
+* **[Groq](https://groq.com)**
+   * Fast performance for individual users
+   * Privacy-focused approach
+   * [API Documentation](https://docs.groq.com/)
+   * [Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)
+
+* **[Together.ai](https://www.together.ai)**
+   * Community-oriented platform
+   * Accessible for learners
+   * [API Documentation](https://docs.together.ai/docs/getting-started)
+
+* **[Perplexity](https://www.perplexity.ai)**
+   * User-friendly interface
+   * Good for personal research
+   * [API Documentation](https://docs.perplexity.ai)
+
+* **[Google Gemini](https://gemini.google.com)**
+   * Available through Google AI Studio
+   * Easy to get started
+   * [API Documentation](https://ai.google.dev/docs)
+
+* **[Cloudflare AI](https://www.cloudflare.com/products/workers-ai/)**
+   * Global edge network deployment
+   * Built-in DDOS protection
+   * [Getting Started Guide](https://developers.cloudflare.com/workers-ai/get-started/)
+
+### Hybrid Cloud Options (More Complex)
+These providers offer both public and private deployment options:
+
+* **[AWS Bedrock](https://aws.amazon.com/bedrock/)**
+   * Public cloud through AWS
+   * Private deployment via AWS Outposts
+   * Note: Listed for awareness, but complex for beginners
+   * [Documentation](https://docs.aws.amazon.com/bedrock/)
+
+* **[Azure AI Foundry](https://azure.microsoft.com/products/cognitive-services/)**
+   * Public cloud through Azure
+   * Private deployment via Azure Stack
+   * Offers DeepSeek models
+   * [Documentation](https://learn.microsoft.com/azure/ai-services/)
+
+### Local Computer Host Options
 Run AI models on your own computer:
 
 * **[Ollama](https://ollama.ai)**
    * Easy to set up
    * Great for learning
    * [GitHub Repository](https://github.com/ollama/ollama)
-   * [Documentation](https://github.com/ollama/ollama/blob/main/docs/README.md)
+   * [Official Documentation](https://github.com/ollama/ollama/blob/main/docs/README.md)
+   * [Our Ollama Setup Guide](guides/Ollama%20Setup.md)
 
 * **[Hugging Face](https://huggingface.co)**
    * Vast learning resources
@@ -82,6 +137,8 @@ Choose based on your comfort level:
 * Simple setup with privacy benefits
 * Familiar browser interface
 * [Leo AI Assistant](https://brave.com/leo/)
+* [Getting Started with Groq + Brave](guides/Getting%20Started%20with%20Groq%20+%20Brave.md)
+* [Getting Started with Ollama + Brave](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)
 
 ### 3. Command Line
 * Best for: Learning and experimenting

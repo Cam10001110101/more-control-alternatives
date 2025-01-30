@@ -32,7 +32,7 @@ The fastest way to get started is through Groq's web interface:
 
 1. Visit [chat.groq.com](https://chat.groq.com/)
 2. Select **"Deepseek-R1-Distil-Llama-70b"** from the model dropdown in the top right corner
-![Groq + Brave Integration Banner](Images/Pasted%20image%2020250128131548.png)
+![Groq + Brave Integration Banner](../Images/Pasted%20image%2020250128131548.png)
 
 ### 2. Quick Setup: Brave Browser Integration
 
@@ -42,7 +42,7 @@ For a balance of ease and privacy, follow these steps:
 2. Install [Brave Browser](https://brave.com/)
 3. Access Leo settings:
    
-   ![Brave Leo Settings](Images/Pasted%20image%2020250128133816.png)
+   ![Brave Leo Settings](../Images/Pasted%20image%2020250128133816.png)
 
 4. Configure your model:
    - Click "Add new model"
@@ -55,7 +55,7 @@ For a balance of ease and privacy, follow these steps:
      API Key: [Your Groq API key]
      ```
  
-   ![Model Configuration](Images/Pasted%20image%2020250128154807.png)
+   ![Model Configuration](../Images/Pasted%20image%2020250128154807.png)
 
 ### 3. Advanced Setup: Open WebUI
 
