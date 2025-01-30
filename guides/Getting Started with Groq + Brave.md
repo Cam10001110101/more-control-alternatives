@@ -1,6 +1,3 @@
-
-![Groq + Brave Integration Banner](System_Files/Image_Imports/Pasted%20image%2020250128131548.png)
-
 ## Introduction
 
 In the rapidly evolving landscape of AI technology, finding the right balance between performance and privacy can be challenging. This guide introduces you to Groq's high-performance inference platform, offering enhanced data privacy compared to closed-source providers and those with varying business models and motivations.
@@ -14,7 +11,7 @@ This guide is perfect for:
 - **Privacy-Conscious Users**: Those interested in DeepSeek models but seeking more control over their data
 
 This guide is not for:
-- Employing rogue technology in a business environment.
+- Employing rogue technology in a business environment or in any unauthorized manner.
 
 ## Quick Setup Guide
 
@@ -35,6 +32,7 @@ The fastest way to get started is through Groq's web interface:
 
 1. Visit [chat.groq.com](https://chat.groq.com/)
 2. Select **"Deepseek-R1-Distil-Llama-70b"** from the model dropdown in the top right corner
+![Groq + Brave Integration Banner](Images/Pasted%20image%2020250128131548.png)
 
 ### 2. Quick Setup: Brave Browser Integration
 
@@ -43,7 +41,8 @@ For a balance of ease and privacy, follow these steps:
 1. Generate your Groq API key at [console.groq.com/keys](https://console.groq.com/keys)
 2. Install [Brave Browser](https://brave.com/)
 3. Access Leo settings:
-   ![Brave Leo Settings](System_Files/Image_Imports/Pasted%20image%2020250128133816.png)
+   
+   ![Brave Leo Settings](Images/Pasted%20image%2020250128133816.png)
 
 4. Configure your model:
    - Click "Add new model"
@@ -56,7 +55,7 @@ For a balance of ease and privacy, follow these steps:
      API Key: [Your Groq API key]
      ```
  
-   ![Model Configuration](System_Files/Image_Imports/Pasted%20image%2020250128154807.png)
+   ![Model Configuration](Images/Pasted%20image%2020250128154807.png)
 
 ### 3. Advanced Setup: Open WebUI
 
