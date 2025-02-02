@@ -21,7 +21,8 @@ This is a quick-start guide for leveraging Ollama's local AI capabilities with B
 
 ## Setting Up Brave with Ollama
 
-1. **Install the DeepSeek Model**
+1. **Install the DeepSeek Model**  
+   Open Terminal, Command Prompt (cmd), bash, or PowerShell and run:  
    ```bash
    ollama pull deepseek-r1:14b
    ```
