@@ -13,7 +13,7 @@ This is a quick-start guide for leveraging Ollama's local AI capabilities with B
 ## Prerequisites
 
 1. **Install Ollama**
-   * Follow our [Ollama Installation Guide](.\ollama-installation.md) for your platform
+   * Follow our [Ollama Installation Guide](./Ollama_Install_Guide.md) for your platform
    * Verify Ollama is running on your system
 
 2. **Install Brave Browser**
@@ -29,8 +29,8 @@ This is a quick-start guide for leveraging Ollama's local AI capabilities with B
 2. **Open Brave Settings**
    * Click the menu icon (☰) in the top-right corner
    * Select "Settings"
-   * Click on "Leo"
-   ![Brave Leo Settings](System_Files/Image_Imports/Pasted%20image%2020250128133816.png)
+   * Click on "Leo"  
+   ![Brave Leo Settings](./Images/Pasted%20image%2020250128133816.png)  
 
 3. **Configure Model**
    * Scroll to the bottom and click "Add new model" with the following settings:
@@ -38,8 +38,9 @@ This is a quick-start guide for leveraging Ollama's local AI capabilities with B
      Label: DeepSeekR1_14b
      Model request name: deepseek-r1:14b
      Server Endpoint: http://localhost:11434/v1/chat/completions
-     ```
-   * Click "Save"
+     ```  
+   ![Brave Ollama Model Configuration](./Images/Brave_Ollama_Model_Config.png)  
+   * Click "Save"  
 
 ## Verifying Your Setup
 
