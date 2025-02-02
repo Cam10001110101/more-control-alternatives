@@ -25,9 +25,9 @@ Over the last decade, we've witnessed technologies that transform daily life—s
 Think of this guide as friendly advice from your tech-savvy neighbor— here to help, not to preach, panic, or shame.
 
 # Step by Step Guides in this library
-Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)  
-Getting Started with Ollama + Brave: [Written Guide](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)  
-Ollama Setup Guide: [Written Guide](guides/Ollama%20Setup.md)  
+Getting Started with Groq + Brave: [Written Guide](Getting_Started_with_Groq_Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)  
+Getting Started with Ollama + Brave: [Written Guide](Getting_Started_with_Ollama_Brave.md)  
+Ollama Setup Guide: [Written Guide](Ollama_Install_Guide.md)  
 
 
 # Access Options
@@ -42,7 +42,7 @@ These services offer various levels of privacy and control. Choose between a clo
    * Fast performance for individual users
    * Privacy-focused approach
    * [API Documentation](https://docs.groq.com/)
-   * Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
+   * Getting Started with Groq + Brave: [Written Guide](Getting_Started_with_Groq_Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
 
 * **[Together.ai](https://www.together.ai)**
    * Community-oriented platform
@@ -87,7 +87,7 @@ Run AI models on your own computer:
    * Great for learning
    * [GitHub Repository](https://github.com/ollama/ollama)
    * [Official Documentation](https://github.com/ollama/ollama/blob/main/docs/README.md)
-   * [Our Ollama Setup Guide](guides/Ollama%20Setup.md)
+   * [Our Ollama Setup Guide](Ollama_Install_Guide.md)
 
 * **[Hugging Face](https://huggingface.co)**
    * Vast learning resources
@@ -137,8 +137,8 @@ Choose based on your comfort level:
 * Simple setup with privacy benefits
 * Familiar browser interface
 * [Leo AI Assistant](https://brave.com/leo/)
-* Getting Started with Groq + Brave: [Written Guide](guides/Getting%20Started%20with%20Groq%20+%20Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
-* Getting Started with Ollama + Brave: [Written Guide](guides/Getting%20Started%20with%20Ollama%20+%20Brave.md)
+* Getting Started with Groq + Brave: [Written Guide](Getting_Started_with_Groq_Brave.md) | [▶️ Video Tutorial](https://www.youtube.com/watch?v=ID4dr021jog)
+* Getting Started with Ollama + Brave: [Written Guide](Getting_Started_with_Ollama_Brave.md)
 
 
 ## Getting Started
